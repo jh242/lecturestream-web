@@ -1,3 +1,9 @@
+    body {
+      background-image: url('./assets/books.jpg');
+      background-position: center;
+      background-size: cover;
+    }
+
     div {
         display: flex;
         align-items: center;
@@ -15,6 +21,8 @@
       width: 150px;
       text-align: right;
       margin-bottom: 5px;
+      font-weight: bolder;
+      color: white;
     }
 
     textarea {
@@ -24,8 +32,6 @@
 
       width: 150px;
       box-sizing: border-box;
-
-      border: 1px solid #532883;
     }
 
     textarea {
