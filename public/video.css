@@ -1,0 +1,12 @@
+body {
+      background-image: url('./assets/books.jpg');
+      background-position: center;
+      background-size: cover;
+}
+
+    div {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+    }
