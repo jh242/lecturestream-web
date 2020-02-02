@@ -1,3 +1,5 @@
-Webservice portion of Schola
+# Webservice portion of Schola
 Test login: test@test.ca
 Password: abc123
+
+## Hosted with Firebase, done in simple HTML.
