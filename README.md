@@ -1,4 +1,6 @@
 # Webservice portion of Schola
+Find the CV portion [here](https://github.com/jh242/lecturestream-host)
+
 Test login: test@test.ca
 Password: abc123
 
